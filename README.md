@@ -1,8 +1,8 @@
-# Brickson Performance Handbook
+# Brickson Cookbook for Best Practices
 
-**This handbook can be used as a checklist for deployment, or as a development resource for starting new projects.**
+**Use the cookbook as a checklist for deployment, or as a development resource for starting new projects.**
 
-**The Brickson Performance Handbook is updated regularly by our Bricksonites, but we welcome all contributions you can make.**
+**The Brickson Cookbook for Best Practices is updated regularly by our Bricksonites, but we welcome all contributions you can make.**
 
 
 ## Table of Contents
