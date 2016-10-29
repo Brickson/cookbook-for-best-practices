@@ -5,7 +5,7 @@
 **The Brickson Performance Handbook is updated regularly by our Bricksonites, but we welcome all contributions you can make.**
 
 
-## Table of Content
+## Table of Contents
 
 1. Assets
 2. Markup
