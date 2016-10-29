@@ -84,6 +84,10 @@ _Small effort, huge return. See: https://www.w3.org/TR/WCAG20-TECHS/G1.html_
 
 _If you’re image has meaningful content to convey, make sure that the alt text can cover the image's meaning for those users that rely on a screen reader. If you’re image does not have a contextual meaning, or can be left out without impairing the legibility of the content, you are free to use an empty alt tag. You may however not omit it!_
 
+* Can the interface be navigated by keyboard?
+
+_Impaired users often rely on their keyboard to navigate a site. Make sure this is possible and that the tab ordering makes sense (applies to more than form elements!)_
+
 
 ## SEO & Performance Optimisation
 
