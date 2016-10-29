@@ -4,7 +4,18 @@
 
 **The Brickson Performance Handbook is updated regularly by our Bricksonites, but we welcome all contributions you can make.**
 
+
+## Table of Content
+
+1. Assets
+2. Markup
+3. Accessibility
+4. SEO & Performance Optimisation
+5. Maintainability
+6. Miscellaneous (gots to have miscellaneous)
+
 ## Assets Optimisation
+
 
 ### CSS
 
@@ -63,9 +74,26 @@ _Add rich snippets (for example: Schema.org) to your markup. This is great for u
 
 _If your server is configured to automatically minify your HTML for you, you’re all set. If not, consider adding this to your build script._
 
+## Accessibility
+
+* Have you added a skip link?
+
+_Small effort, huge return. See: https://www.w3.org/TR/WCAG20-TECHS/G1.html_
+
+* Do your images contain meaningful alt texts (where appropriate)?
+
+_If you’re image has meaningful content to convey, make sure that the alt text can cover the image's meaning for those users that rely on a screen reader. If you’re image does not have a contextual meaning, or can be left out without impairing the legibility of the content, you are free to use an empty alt tag. You may however not omit it!_
+
+
 ## SEO & Performance Optimisation
 
 * Does your application require Google Analytics, or other tracking tools?
+
+
+## Maintainability
+
+/* To do */
+
 
 ## Miscellaneaous
 
