@@ -1,21 +1,24 @@
 # Brickson Performance Handbook
 
-This handbook can be used as a checklist for deployment, or as a development resource for starting new projects. 
+**This handbook can be used as a checklist for deployment, or as a development resource for starting new projects. 
 
-The Brickson Performance Handbook is updated regularly by our Bricksonites, but we welcome all contributions you can make.
+**The Brickson Performance Handbook is updated regularly by our Bricksonites, but we welcome all contributions you can make.
 
 ## Assets Optimisation
 
 ### CSS
 
-*	Have you checked your CSS syntax and efficiency? 
-_This should be taken care of by your build script, but if the script does not include a (Sass/S)CSS lint step this should be done manually, for instance in an online linter._
+*	Have you checked your CSS syntax and efficiency?
+
+*This should be taken care of by your build script, but if the script does not include a (Sass/S)CSS lint step this should be done manually, for instance in an online linter.
 
 * Have you added all appropriate vendor prefixes?
-_If something like Autoprefixer or PostCSS is not part of your build script or your or if your favourite CSS preprocessor does not take care of vendor prefixes for you, this can be done manually by using an online tool like Autoprefixer CSS Online. Also: make sure you know which prefixes are required in your project, e.g. know which browsers your project must support._
+
+*If something like Autoprefixer or PostCSS is not part of your build script or your or if your favourite CSS preprocessor does not take care of vendor prefixes for you, this can be done manually by using an online tool like Autoprefixer CSS Online. Also: make sure you know which prefixes are required in your project, e.g. know which browsers your project must support.
 
 * Have you minified your stylesheets?
-_If you are using SASS, you can let the compiler take care of that for you. Alternatively, you can configure your build script to do it for you, or use an online service._
+
+*If you are using SASS, you can let the compiler take care of that for you. Alternatively, you can configure your build script to do it for you, or use an online service.
 
 
 ### JavaScript
@@ -47,17 +50,25 @@ _If you are using SASS, you can let the compiler take care of that for you. Alte
 ### Syntax
 
 * Have you checked your HTML for validity?
-_There is no excuse for invalid HTML, just use an HTML linter in your build project or [W3C's]:https://validator.w3.org/ online validator tool._
+
+*There is no excuse for invalid HTML, just use an HTML linter in your build project or [W3C's]:https://validator.w3.org/ online validator tool.
 
 * Have you implemented rich snippets?
-_Add rich snippets (for example: Schema.org) to your markup. This is great for uncle Google and his nephews, but more importantly users with assistive devices will have a better user experience. While you’re at it, why don't you check out the accessibility section of the BPH?_
+
+*Add rich snippets (for example: Schema.org) to your markup. This is great for uncle Google and his nephews, but more importantly users with assistive devices will have a better user experience. While you’re at it, why don't you check out the accessibility section of the BPH?
 
 ### Optimisation
 
 * Have you minified your HTML?
-_If your server is configured to automatically minify your HTML for you, you’re all set. If not, consider adding this to your build script._
+
+*If your server is configured to automatically minify your HTML for you, you’re all set. If not, consider adding this to your build script.
 
 ## SEO & Performance Optimisation
 
 * Does your application require Google Analytics, or other tracking tools?
 
+## Miscellaneaous
+
+* Have you cleaned up any development code and/or databases?
+
+*Like, for instance, have you made sure that no test accounts like admin/admin exist in your database? (Yes. It happens.)
