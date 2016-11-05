@@ -1,4 +1,4 @@
-# Brickson Cookbook for Best Practices
+# Brickson Deployment Checklist
 
 **Use the cookbook as a checklist for deployment, or as a development resource for starting new projects.**
 
@@ -99,7 +99,11 @@ _Impaired users often rely on their keyboard to navigate a site. Make sure this 
 /* To do */
 
 
-## Miscellaneaous
+## Miscellaneous
+
+* Have you added a favicon and app icons?
+
+_There are generators that can help you create them, for instance http://realfavicongenerator.net_
 
 * Have you cleaned up any development code and/or databases?
 
