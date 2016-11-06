@@ -1,8 +1,8 @@
 # Brickson Deployment Checklist
 
-**Use the cookbook as a checklist for deployment, or as a development resource for starting new projects.**
+**Use as a checklist for deployment, or as a development resource for starting new projects.**
 
-**The Brickson Cookbook for Best Practices is updated regularly by our Bricksonites, but we welcome all contributions you can make.**
+**The Brickson Checklist for Deployment is updated regularly by our Bricksonites, but we welcome all contributions you can make.**
 
 
 ## Table of Contents
@@ -12,7 +12,8 @@
 3. Accessibility
 4. SEO & Performance Optimisation
 5. Maintainability
-6. Miscellaneous (gots to have miscellaneous)
+5. Social Sharing
+7. Miscellaneous (gots to have miscellaneous)
 
 ## Assets Optimisation
 
@@ -97,6 +98,18 @@ _Impaired users often rely on their keyboard to navigate a site. Make sure this 
 ## Maintainability
 
 /* To do */
+
+
+## Social Sharing
+
+* Does (part of) your project require Open Graph support?
+
+_/* To do - hints & example */_
+
+
+* Does (part of) your project require support for sharing on Twitter?
+
+_/* To do - hints & example */_
 
 
 ## Miscellaneous
