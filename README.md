@@ -121,3 +121,7 @@ _There are generators that can help you create them, for instance http://realfav
 * Have you cleaned up any development code and/or databases?
 
 _Like, for instance, have you made sure that no test accounts like admin/admin exist in your database? (Yes. It happens.)_
+
+* Have you added (if necessary) tracking codes?
+
+_Google analytics, charbeat, etc._
