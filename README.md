@@ -126,4 +126,4 @@ _Like, for instance, have you made sure that no test accounts like admin/admin e
 
 _Google analytics, charbeat, etc._
 
-_Use the "nofollow" attribute for links in the comment field. This will deter spammers from targeting your site. By default, many blogging sites (such as Blogger) automatically add this attribute to any posted comments._
+* Use the "nofollow" attribute for links in the comment field. This will deter spammers from targeting your site. By default, many blogging sites (such as Blogger) automatically add this attribute to any posted comments.
