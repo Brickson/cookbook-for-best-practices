@@ -114,6 +114,8 @@ _/* To do - hints & example */_
 
 ## Miscellaneous
 
+* Have you disabled directory listing?
+
 * Have you added a favicon and app icons?
 
 _There are generators that can help you create them, for instance http://realfavicongenerator.net_
