@@ -114,6 +114,11 @@ _/* To do - hints & example */_
 
 ## Miscellaneous
 
+* Have you removed/disabled all debug code?
+
+* Have you implemented appropriate error handling?
+_ For instance, 4## and 5## pages
+
 * Have you disabled directory listing?
 
 * Have you added a favicon and app icons?
@@ -129,3 +134,5 @@ _Like, for instance, have you made sure that no test accounts like admin/admin e
 _Google analytics, charbeat, etc._
 
 * Use the "nofollow" attribute for links in the comment field. This will deter spammers from targeting your site. By default, many blogging sites (such as Blogger) automatically add this attribute to any posted comments.
+
+* Check the robot.txt, is Google (not) allowed to track the appropriate paths?
